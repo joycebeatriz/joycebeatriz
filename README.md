@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![joycebeatriz's Stats](https://github-readme-stats.vercel.app/api?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![joycebeatriz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&layout=compact)
-
-![joycebeatriz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joycebeatriz&theme=default&hide_border=true)
-
+____________
+![joycebeatriz's Stats](https://github-readme-stats.vercel.app/api?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&count_private=true)   | ![joycebeatriz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&layout=compact)
+--------- | ------
+__________
  ![Snake animation](https://github.com/joycebeatriz/joycebeatriz/blob/output/github-contribution-grid-snake.svg)
