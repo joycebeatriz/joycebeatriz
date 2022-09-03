@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joycebeatriz&label=Profile%20views&color=0e75b6&style=flat" alt="joycebeatriz" /> </p>
 
+- 😄 Pronouns: she/her
+- 🔶 INFJ
 - 🌱 I’m currently learning **Java, C++, laravel, docker and Arduino.**
 - 👨‍💻 All of my projects are available at [[]()]([]())
 - 📫 How to reach me **joycebeatriz54@gmail.com**
 - 📄 Know about my experiences [[]()]([]())
 - 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
+- 👯 I'm a member of GDSC UFG, Pequi Mecânico, Projeto Adas, WTM, TFF e GDG Goiânia, Draco e TFF. 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
