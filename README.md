@@ -1,19 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Joyce Silva</h1>
+<h3 align="center">An enthusiast in the field of technology.</h3>
 
-<!--
-**Joycebeatriz/joycebeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joycebeatriz&label=Profile%20views&color=0e75b6&style=flat" alt="joycebeatriz" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java, C++, laravel, docker and Arduino.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [[]()]([]())
+
+- 📫 How to reach me **joycebeatriz54@gmail.com**
+
+- 📄 Know about my experiences [[]()]([]())
+- 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/joycebeatriz54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joycebeatriz54" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joycebeatriz54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joycebeatriz54" height="30" width="40" /></a>
+<a href="https://instagram.com/joycebeatriz54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joycebeatriz54" height="30" width="40" /></a>
+<a href="https://medium.com/@joycebeatriz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joycebeatriz/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+
 ____________
 ![joycebeatriz's Stats](https://github-readme-stats.vercel.app/api?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&count_private=true)   | ![joycebeatriz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&layout=compact)
 --------- | ------
