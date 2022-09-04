@@ -10,7 +10,7 @@
 - 📫 How to reach me **joycebeatriz54@gmail.com**
 - 📄 Know about my experiences [[]()]([]())
 - 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
-- 👯 I'm a member of GDSC UFG, Pequi Mecânico, Projeto Adas, WTM, GDG Goiânia, Draco e TFF. 
+- 👯 I'm a member of GDSC UFG, Pequi Mecânico, Projeto Adas, WTM, Draco e TFF. 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
