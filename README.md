@@ -5,12 +5,12 @@
 
 - 😄 Pronouns: she/her
 - 🔶 INFJ
-- 🌱 I’m currently learning **Java, C++, laravel, docker and Arduino.**
+- 🌱 Starting my journey as a Developer 
 - 👨‍💻 All of my projects are available at [[]()]([]())
 - 📫 How to reach me **joycebeatriz54@gmail.com**
 - 📄 Know about my experiences [[]()]([]())
 - 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
-- 👯 I'm a member of GDSC UFG, Pequi Mecânico, Projeto Adas, WTM, Draco e TFF. 
+- 👯 I'm a member of GDSC UFG, Pequi Mecânico, Projeto Adas, WTM, Draco and TFF. 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
