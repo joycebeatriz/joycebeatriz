@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joyce Silva</h1>
+<h1 align="center">Hi, I'm Joyce Beatriz</h1>
 <h3 align="center">An enthusiast in the field of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joycebeatriz&label=Profile%20views&color=0e75b6&style=flat" alt="joycebeatriz" /> </p>
