@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joyce Silva</h1>
+<h1 align="center">Hi, I'm Joyce Silva</h1>
 <h3 align="center">An enthusiast in the field of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joycebeatriz&label=Profile%20views&color=0e75b6&style=flat" alt="joycebeatriz" /> </p>
@@ -12,7 +12,7 @@
 - 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
 - 👯 I'm a member of GDSC UFG, Pequi Mecânico, Projeto Adas, WTM, Draco and TFF. 
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -25,8 +25,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-Teste 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
