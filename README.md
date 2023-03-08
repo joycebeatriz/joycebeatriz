@@ -53,5 +53,5 @@
 ________________________
 ![joycebeatriz's Stats](https://github-readme-stats.vercel.app/api?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&count_private=true)   | ![joycebeatriz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&layout=compact)
 --------- | ------
-__________
- ![Snake animation](https://github.com/joycebeatriz/joycebeatriz/blob/output/github-contribution-grid-snake.svg)
+<!--__________
+ ![Snake animation](https://github.com/joycebeatriz/joycebeatriz/blob/output/github-contribution-grid-snake.svg)-->
