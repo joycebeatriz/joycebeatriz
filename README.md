@@ -3,14 +3,12 @@
 
 - 😄 Pronouns: she/her
 - 🔶 INFJ
-- 🌱 Starting my journey as a Developer 
-- 📫 How to reach me **joycebeatriz54@gmail.com**
-- 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
-</p>
-
+- 👨‍💻 Starting my journey as a Developer 
 - 🌱 I’m currently learning **about DBSCAN, data normalization, and clustering in my scientific research, which focuses on the parallel implementation of clustering algorithms.**
-
+- 📫 How to reach me: [joycebeatriz54@gmail.com](mailto:joycebeatriz54@gmail.com)
+- 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
 - 📄 Know about my experiences [Currículo - em português](https://drive.google.com/file/d/1ScKwq274POuf1V1FBXtu_BlSGcjiFTqB/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
