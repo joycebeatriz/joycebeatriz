@@ -8,20 +8,6 @@
 - 🌱 Starting my journey as a Developer 
 - 📫 How to reach me **joycebeatriz54@gmail.com**
 - 💬 Ask me about anything [here](https://github.com/joycebeatriz/joycebeatriz/issues)
-<!-- - 📄 Know about my experiences [[]()]([]()) -->
-<!-- - 👨‍💻 All of my projects are available at [[]()]([]()) -->
-<!-- - 👯 I'm a member of GDSC UFG, Pequi Mecânico, Projeto Adas, WTM, Draco and TFF. -->
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- - <h3 align="left">Connect with me:</h3> -->
-<!-- - <p align="left"> -->
-<!-- <a href="https://twitter.com/joycebeatriz54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joycebeatriz54" height="30" width="40" /></a> -->
-<!-- <a href="https://linkedin.com/in/joycebeatriz54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joycebeatriz54" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/joycebeatriz54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joycebeatriz54" height="30" width="40" /></a> -->
-<!-- <a href="https://medium.com/@joycebeatriz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joycebeatriz/" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,14 +28,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
-<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)--> 
-<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)--> 
-<!--![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)--> 
-<!--![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)--> 
-<!--![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)-->
-<!--![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)-->
-<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 ________________________
 ![joycebeatriz's Stats](https://github-readme-stats.vercel.app/api?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&count_private=true)   | ![joycebeatriz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycebeatriz&theme=default&show_icons=true&hide_border=true&layout=compact)
 --------- | ------
