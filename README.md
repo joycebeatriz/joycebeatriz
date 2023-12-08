@@ -77,13 +77,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joycebeatriz&show_icons=true&locale=en&layout=compact" alt="joycebeatriz" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joycebeatriz&show_icons=true&locale=en&layout=compact" alt="joycebeatriz" width="385"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=joycebeatriz&show_icons=true&locale=en" alt="joycebeatriz" width="400"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joycebeatriz" alt="joycebeatriz" width="410" height=""/>
+      <img src="https://github-readme-stats.vercel.app/api?username=joycebeatriz&show_icons=true&locale=en" alt="joycebeatriz" width="500"/>
     </td>
   </tr>
 </table>
