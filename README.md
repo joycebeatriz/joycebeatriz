@@ -1,91 +1,103 @@
 <h1 align="center">Hi, I'm Joyce!</h1>
 <h3 align="center">An enthusiast in the field of technology.</h3>
 
-## About Me
+## 👩‍💻 About Me
 
-- 👨‍💻 Undergraduate student in Software Engineering at the Federal University of Goias.
-- 🌱 Currently, I am working to enhance my development skills. Additionally, I am involved in scientific research with a focus on the parallel implementation of clustering algorithms.
+- 🎓 Undergraduate student in Software Engineering at the Federal University of Goiás.
+- 🔬 Currently developing my skills through scientific research focused on the parallel implementation of clustering algorithms.
+- ✨ Passionate about software development, testing, and creating meaningful digital experiences.
 
-</p>
+📫 Reach me at: [joycebeatriz54@gmail.com](mailto:joycebeatriz54@gmail.com)  
+📄 Learn more: [Currículo - em português](https://drive.google.com/file/d/1ScKwq274POuf1V1FBXtu_BlSGcjiFTqB/view?usp=sharing)
 
-📫 How to reach me: [joycebeatriz54@gmail.com](mailto:joycebeatriz54@gmail.com)
-|  📄 Know about my experiences [Currículo - em português](https://drive.google.com/file/d/1ScKwq274POuf1V1FBXtu_BlSGcjiFTqB/view?usp=sharing)
+---
 
-## Habilidades e Interesses
+## 🔧 Skills & Interests
 
-- 🌐 Interest in Software Testing and Software Development.
-- 🎓 During college, I worked on projects involving: C, C++, HTML5, CSS3, Python and JavaScript.
-- 📖 Currently studying Java.
-- 🔧 Other Skills: LaTeX, Git and GitHub, WordPress, Figma, and Arduino.
+- 🌐 Interests: Front-end development, Software Testing, UX/UI, and Automation.
+- 💡 Languages: C, C++, Python, Java, HTML5, CSS3, JavaScript.
+- ✍️ Tools: LaTeX, Git & GitHub, WordPress, Figma, Arduino.
+- 📚 Currently learning: Java and best practices in scalable systems.
 
+---
 
-## Languages and Tools:
+## 🎨 Front-end
 
-<p align="left">
-  <a href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML" /><br>HTML</a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS" /><br>CSS</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript</a></td>
+    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" /><br>React</a></td>
+    <td align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /><br>Bootstrap</a></td>
+    <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" /><br>Figma</a></td>
+  </tr>
+</table>
 
+---
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-</p>
+## 🧠 Back-end
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /><br>Python</a></td>
+    <td align="center"><a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" /><br>Java</a></td>
+    <td align="center"><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" /><br>C</a></td>
+    <td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /><br>C++</a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" /><br>MySQL</a></td>
+    <td align="center"><a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" alt="MariaDB" /><br>MariaDB</a></td>
+  </tr>
+</table>
+
+---
+
+## 🧪 Testing & Quality
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.cypress.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" alt="Cypress" /><br>Cypress</a></td>
+  </tr>
+</table>
+
+---
+
+## 📦 Version Control & Deployment
+
+<table>
+  <tr>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" /><br>Git</a></td>
+    <td align="center"><a href="https://pages.github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" alt="GitHub Pages" /><br>GitHub Pages</a></td>
+    <td align="center"><a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel" /><br>Vercel</a></td>
+    <td align="center"><a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" alt="Netlify" /><br>Netlify</a></td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Others
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" /><br>Linux</a></td>
+    <td align="center"><a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino" /><br>Arduino</a></td>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" /><br>AWS</a></td>
+    <td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn" /><br>scikit-learn</a></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joycebeatriz&show_icons=true&locale=en&layout=compact" alt="joycebeatriz" width="385"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joycebeatriz&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="385"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=joycebeatriz&show_icons=true&locale=en" alt="joycebeatriz" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=joycebeatriz&show_icons=true&locale=en" alt="GitHub Stats" width="500"/>
     </td>
   </tr>
 </table>
 
 <!-- <img src="https://raw.githubusercontent.com/joycebeatriz/joycebeatriz/output/snake.svg" alt="Snake animation" /> -->
-
