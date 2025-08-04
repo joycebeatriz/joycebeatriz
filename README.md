@@ -10,6 +10,9 @@
 📫 Reach me at: [joycebeatriz54@gmail.com](mailto:joycebeatriz54@gmail.com)  
 📄 Learn more: [Currículo - em português](https://drive.google.com/file/d/1ScKwq274POuf1V1FBXtu_BlSGcjiFTqB/view?usp=sharing)
 
+📝 Read my articles on [Medium](https://medium.com/@joycebeatriz)
+
+
 ---
 
 ## 🔧 Skills & Interests
