@@ -92,15 +92,9 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joycebeatriz&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="385"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=joycebeatriz&show_icons=true&locale=en" alt="GitHub Stats" width="500"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joycebeatriz&theme=radical&show_icons=true&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joycebeatriz&theme=radical&hide_border=true" height="150" />
+</div>
 
 <!-- <img src="https://raw.githubusercontent.com/joycebeatriz/joycebeatriz/output/snake.svg" alt="Snake animation" /> -->
